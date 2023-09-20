@@ -62,7 +62,7 @@ One can **train**, **evaluate** and **watch** the agent using the jupyter notebo
 Both the **evaluation** and agent **demonstration** can be found inside the jupyter notebook with the related instructions before each cell.
 
 #### And here is a little sneak peek:
-![alt text](agent copy.gif)
+![alt text](agent_copy.gif)
 
 
 
